@@ -1,6 +1,6 @@
 # 📉 Análise de Evasão de Clientes - Telecom X
 
-> Projeto desenvolvido como parte do desafio de Data Science focado em ETL e análise exploratória de dados (EDA), com o objetivo de compreender e combater a evasão de clientes na empresa fictícia **Telecom X**.
+> Projeto desenvolvido como parte do desafio de Data Science focado em ETL e análise exploratória de dados (EDA), com o objetivo de compreender e combater a evasão de clientes na empresa **Telecom X**.
 
 ---
 
@@ -40,7 +40,7 @@ A missão é:
 - Identificação de correlações, padrões de consumo, tipos de clientes e serviços contratados.
 
 ### 🔹 Relatório
-- Documento com introdução, metodologia ETL, insights visuais, conclusões e recomendações.
+- Documento com introdução, metodologia ETL, insights visuais, conclusões e recomendações. (Todas etapas disponíveis no Notebook)
 
 ---
 
