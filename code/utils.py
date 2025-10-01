@@ -1,7 +1,7 @@
 import pandas as pd
 
 def carregar_dados():
-    df = pd.read_json('../Dados_API/dados_tratados.json')
+    df = pd.read_json('https://raw.githubusercontent.com/Enoque12/Analise_TelecomX_Challenge2/refs/heads/main/Dados_API/dados_tratados.json')
     return df
 
 def metodopagamento(df, churn):
